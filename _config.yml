@@ -44,8 +44,8 @@ social:
     - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/nomanhossainn # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/tihan.noman
+    - https://www.linkedin.com/in/noman-hossainn
 
 # Site Verification Settings
 webmaster_verifications:
@@ -108,7 +108,7 @@ avatar: assets/images/Profile.JPG
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: true 
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
